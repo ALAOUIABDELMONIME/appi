@@ -6,7 +6,7 @@
 		  
 		  
         "BannerAd": "admob",
-        "InterstitialAd": "admob",
+        "InterstitialAd": "facebook",
         "NativeAd": "admob",
 
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
@@ -14,7 +14,7 @@
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
         "BannerFacebook": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#f57118eb-3c92-40cf-bdbc-4c8bfbf91715",
+        "InterstitialFacebook": "YOUR_PLACEMENT_ID",
         "NativeFacebook": "173186393601951_356298065290782",
 
         "ImageBanner": true,
