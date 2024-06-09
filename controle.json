@@ -5,7 +5,7 @@
 	  "AdsController":{
 		  
 		  
-        "BannerAd": "admob",
+        "BannerAd": "facebook",
         "InterstitialAd": "admob",
         "NativeAd": "admob",
 
@@ -13,7 +13,7 @@
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
-        "BannerFacebook": "f57118eb-3c92-40cf-bdbc-4c8bfbf91715",
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "InterstitialFacebook": "IMG_16_9_APP_INSTALL#f57118eb-3c92-40cf-bdbc-4c8bfbf91715",
         "NativeFacebook": "173186393601951_356298065290782",
 
