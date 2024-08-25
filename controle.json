@@ -5,7 +5,7 @@
 	  "AdsController":{
 		  
 		  
-        "BannerAd": "facebook",
+        "BannerAd": "admob",
         "InterstitialAd": "facebook",
         "NativeAd": "admob",
 
